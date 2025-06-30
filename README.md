@@ -80,7 +80,8 @@ AI is transforming industries by automating tasks and analyzing data...
 ```
 
 ---
-
+###Output:
+![Image](https://github.com/user-attachments/assets/18f5bc29-f5d4-4968-b774-f0c17a9c275f)
 
 
 ---
